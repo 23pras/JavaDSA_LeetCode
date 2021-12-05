@@ -1,3 +1,3 @@
 # JavaDSA_LeetCode
 
-This Repo is the collection of all my DSA & Leetcode Solutions.
+This Repo is the collection of all my Java, DSA & Leetcode Solutions.
